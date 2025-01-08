@@ -1,6 +1,9 @@
 # Historical-Intraday-Suppliers
 
 [PortaraCQG](https://portaracqg.com/) is a staple CQG product providing CQG Datafactory data to hedge funds, CTA’s quants and traders globally.  Portara allows the extraction of [continuous intraday data](https://portaracqg.com/continuous-futures-data/) and individual data down to the 1 minute resolution. Data output is homogenous ASCII/CSV/TXT is platform neutral and is guaranteed to operate through any database solution. Portara and CQG have the largest reach of data access globally covering all futures FX and cash market exchanges.
+
+Portara is also an Approved supplier of historical intraday and tick data for NinjaTrader. To find out more about NinjaTrader data, visit: [PortaraNinja](https://portaraninja.com/).
+
 ### Four Integrated Databases:
 Portara provides up to 123 years of historical daily futures data from 1899. Portara daily database contain FIVE price points so you can base the close on either Last Price or Settle. Portara has historical intraday futures data starting from 1983 and also has historical tick data and level 1 futures data covering global markets.  CQG data integrity department ensures the data is clean and hedge fund ready half hour after markets close.
 ### Accessibility & Awards: 
